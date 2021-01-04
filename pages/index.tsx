@@ -17,9 +17,8 @@ const Home = () => {
 
       <main>
         <Title className="title">
-          Read{" "}
           <Link href="/posts">
-            <a>this page!</a>
+            read this page
           </Link>
         </Title>
       </main>
