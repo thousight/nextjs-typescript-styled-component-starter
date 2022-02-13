@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home matches snapshot 1`] = `
+<div>
+  <main>
+    <p
+      class="sc-bdvvtL iQBoIu"
+    >
+      nextjs-typescript-styled-component-starter
+       at version 
+      0.1.0
+    </p>
+  </main>
+</div>
+`;
