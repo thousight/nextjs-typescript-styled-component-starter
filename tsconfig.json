@@ -1,11 +1,7 @@
 {
   "compilerOptions": {
     "esModuleInterop": true,
-    "lib": [
-      "esnext",
-      "es2015",
-      "dom"
-    ],
+    "lib": ["esnext", "es2015", "dom"],
     "module": "commonjs",
     "moduleResolution": "node",
     "outDir": "./build",
@@ -19,15 +15,9 @@
     "forceConsistentCasingInFileNames": true,
     "noEmit": true,
     "isolatedModules": true,
-    "jsx": "preserve"
+    "jsx": "preserve",
+    "incremental": true
   },
-  "exclude": [
-    "node_modules",
-    "build"
-  ],
-  "include": [
-    "next-env.d.ts",
-    "**/*.ts",
-    "**/*.tsx"
-  ]
+  "exclude": ["node_modules", "build"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"]
 }
