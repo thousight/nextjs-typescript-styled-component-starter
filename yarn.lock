@@ -1919,7 +1919,7 @@
     "micromatch" "^4.0.0"
     "p-reduce" "^2.0.0"
 
-"@semantic-release/github@^8.0.0":
+"@semantic-release/github@^8.0.0", "@semantic-release/github@^8.0.5":
   "integrity" "sha512-9pGxRM3gv1hgoZ/muyd4pWnykdIUVfCiev6MXE9lOyGQof4FQy95GFE26nDcifs9ZG7bBzV8ue87bo/y1zVf0g=="
   "resolved" "https://registry.npmjs.org/@semantic-release/github/-/github-8.0.5.tgz"
   "version" "8.0.5"
