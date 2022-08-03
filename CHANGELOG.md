@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/thousight/nextjs-typescript-styled-component-starter/compare/v1.0.0...v1.0.1) (2022-08-03)
+
+
+### Bug Fixes
+
+* type conflicts with styled-component ([5eb1f91](https://github.com/thousight/nextjs-typescript-styled-component-starter/commit/5eb1f913c5a719cc7fd6ad34cea4034cc3c590ca))
+
 # 1.0.0 (2022-08-02)
 
 
